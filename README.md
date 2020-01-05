@@ -1,3 +1,5 @@
+# Tutorial
+
 1. Gagawa ng bagong repository sa github
 2. Bubuksan yung VSCODE at terminal sa VSCODE
 3. Itype sa terminal 'git clone link ng repositry'
@@ -28,3 +30,4 @@
 23. Hanapin ang GitHub Pages
 24. Palitan ang source sa master branch
 25. Icheck ang bagong website: geenver.github.io/pangalan-ng-project
+
